@@ -1,3 +1,6 @@
 [submodule "Phoenix/Learning_Phoenix"]
 	path = Phoenix/Learning_Phoenix
 	url = git@github.com:LuisSas/Learning_Phoenix.git
+[submodule "CommandLineApps/Le_Etoile_Learning_Manager"]
+	path = CommandLineApps/Le_Etoile_Learning_Manager
+	url = https://github.com/carlogilmar/Le_Etoile_Learning_Manager.git

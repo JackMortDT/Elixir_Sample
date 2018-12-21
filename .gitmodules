@@ -4,3 +4,6 @@
 [submodule "CommandLineApps/Le_Etoile_Learning_Manager"]
 	path = CommandLineApps/Le_Etoile_Learning_Manager
 	url = https://github.com/carlogilmar/Le_Etoile_Learning_Manager.git
+[submodule "elixir_workshop"]
+	path = elixir_workshop
+	url = git@github.com:LuisSas/elixir_workshop.git
